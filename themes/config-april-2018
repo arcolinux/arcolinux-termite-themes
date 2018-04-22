@@ -36,7 +36,7 @@ urgent_on_bell = true
 #### You can change the color coding to your liking
 #### There is a folder themes in ~/config/termite/themes
 #### Copy/paste the colors from one of the 79+ templates to this one
-#### A backup of the original config termite is present
+#### A backup of the original config termite is present  
 ############################################################
 #### Use websites to make the terminal your own
 #### https://terminal.sexy
@@ -71,8 +71,8 @@ color3  = #f1fa8c
 color11 = #f4f99d
 
 # blue
-color4  = #6790EB
-color12 = #79A9FF
+color4  = #bd93f9
+color12 = #caa9fa
 
 # magenta
 color5  = #ff79c6
@@ -85,3 +85,5 @@ color14 = #9aedfe
 # white
 color7  = #bfbfbf
 color15 = #e6e6e6
+
+
