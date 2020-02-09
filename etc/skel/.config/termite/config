@@ -45,15 +45,13 @@ urgent_on_bell = true
 ############################################################
 
 [colors]
-# https://critical.ch/xterm/
-#dracula theme adapted by Erik Dubois
+# ArcoLinux Default Theme
 background = rgba(40, 42, 54, 0.8)
 
 # special
 foreground      = #f8f8f2
 foreground_bold = #f8f8f2
 cursor          = #f8f8f2
-#background      = #282a36
 
 # black
 color0  = #000000
